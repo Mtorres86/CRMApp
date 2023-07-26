@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Mini-CRM App</string>
+    <string name="title_home">Inicio</string>
+    <string name="title_clientes">Clientes</string>
+    <string name="title_config">Configuración</string>
+    <string name="lbl_hint_search">Contacto a Buscar</string>
+    <string name="lbl_hint_nombre_completo">Nombre Completo</string>
+    <string name="lbl_hint_telefono">Número de Teléfono</string>
+    <string name="lbl_hint_correo">Correo Electrónico</string>
+</resources>
